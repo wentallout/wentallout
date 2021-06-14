@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **wentallout@gmail.com**
 
-- ⚡ Fun fact **I don't like HR people**
+- ⚡ Fun fact **My favorite font is Inter. Don't be a Roboto scrub!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
