@@ -1,4 +1,6 @@
-<h1 align="center">My name is Khoa</h1>
+<h1 align="center">Welcome to the wentallout repo</h1>
+![pKsSQwV3](https://user-images.githubusercontent.com/76118931/121932402-0c846800-cd6f-11eb-8dac-74b597fa3b24.gif)
+
 <h3 align="center">Just a simple web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wentallout&label=Views&color=f3e600&style=flat-square" alt="wentallout" /> </p>
