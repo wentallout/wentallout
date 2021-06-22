@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wentallout&label=Views&color=f3e600&style=flat-square" alt="wentallout" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wentallout" alt="wentallout" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?wentallout=ryo-ma&row=2&column=3&theme=flat
+" alt="wentallout" /></a> </p>
 
 
 - 🌱 I’m currently learning **react**
