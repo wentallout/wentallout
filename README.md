@@ -10,11 +10,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=flat&no-bg=true&margin-w=15&margin-h=15" alt="wentallout" /></a> </p>
 
 
-- 🌱 I’m currently learning **react**
+- 🌱 Learning React
 
-- 📫 How to reach me **wentallout@gmail.com**
+- 📫 Email me: **wentallout@gmail.com**
 
-- ⚡ Fun fact **My favorite font is Inter. Don't be a Roboto scrub!**
+- ⚡ My favorite font is Inter. Don't be a Roboto scrub!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
