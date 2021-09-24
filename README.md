@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Khoa
 #### I am a .NET Developer
-![VIEWS](https://gpvc.arturio.dev/wentallout)
+
 
 - Backend: .NET
 - Database: SQL
