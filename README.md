@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Khoa
 #### I am a .NET Developer
-![Profile views](https://gpvc.arturio.dev/wentallout)
+![VIEWS](https://gpvc.arturio.dev/wentallout)
 
 Backend: .NET
 Database: SQL
@@ -16,12 +16,14 @@ Frontend: React
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wentallout)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wentallout)
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wentallout&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wentallout)  
 
 ![GitHub metrics](https://metrics.lecoq.io/wentallout)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wentallout)  
+ 
 
   
