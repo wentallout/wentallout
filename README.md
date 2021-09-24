@@ -16,7 +16,7 @@ Frontend: React
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wentallout)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wentallout&theme=dark)
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wentallout&show_icons=true)  
 
