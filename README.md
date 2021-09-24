@@ -20,7 +20,6 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wentallout&show_icons=true&theme=onedark)  
 
-![Metrics](https://metrics.lecoq.io/wentallout?template=classic&rss=1&achievements=1&skyline=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&rss.source=https%3A%2F%2Fcss-tricks.com%2Ffeed%2F&rss.limit=4&config.timezone=Asia%2FBangkok)
 
  
 
