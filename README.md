@@ -22,7 +22,7 @@ Frontend: React
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wentallout)  
 
-![GitHub metrics](https://metrics.lecoq.io/wentallout)  
+ 
 
  
 
