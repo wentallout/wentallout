@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Khoa
-#### I am a .NET Developer
+#### .NET Developer
+#### I'm just a friendly spider who makes web.
 
 
 - Backend: .NET
