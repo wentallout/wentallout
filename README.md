@@ -3,7 +3,7 @@
 #### I'm just a friendly spider who makes webs.
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/wentallout/wentallout/blob/master/devcard.svg" width="400" alt="Khoa's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/wentallout/wentallout/blob/master/devcard.svg" width="400" alt="wentallout"/></a>
 
 
 - Backend: .NET
