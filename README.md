@@ -6,13 +6,11 @@
 <img src="https://github.com/wentallout/wentallout/blob/main/devcard.svg" width="400" alt="wentallout"/>
 
 
-- Backend: .NET
+- Backend: .NET API
 - Database: SQL
 - Frontend: React, Next.js
-- 🔭 I’m currently working on my life 
 - 🌱 I’m currently learning Next.js 
 - 📫 How to reach me: wentallout@gmail.com 
-- ⚡ Fun fact: I hate big companies
 - Metrics: https://metrics.lecoq.io/about/wentallout
 
 
