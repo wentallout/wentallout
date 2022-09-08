@@ -8,9 +8,9 @@
 
 - Backend: .NET API
 - Database: SQL
-- Frontend: React, Next.js
-- 🌱 I’m currently learning Next.js 
-- 📫 How to reach me: wentallout@gmail.com 
+- Frontend: SvelteKit
+
+- 📫 Contact me: wentallout@gmail.com 
 - Metrics: https://metrics.lecoq.io/about/wentallout
 
 
