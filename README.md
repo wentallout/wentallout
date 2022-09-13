@@ -1,14 +1,14 @@
 ### Hi there 👋, My name is Khoa
-#### .NET Developer
-#### I'm just a friendly spider who makes webs.
+#### Svelte Dev + UI/UX Designer
 
 
 <img src="https://github.com/wentallout/wentallout/blob/main/devcard.svg" width="400" alt="wentallout"/>
 
-
+- Frontend: SvelteKit
 - Backend: .NET API
 - Database: SQL
-- Frontend: SvelteKit
+- UI/UX: Figma
+
 
 - 📫 Contact me: wentallout@gmail.com 
 - Metrics: https://metrics.lecoq.io/about/wentallout
@@ -22,9 +22,3 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wentallout&show_icons=true&theme=onedark)  
 
-
- 
-
- 
-
-  
