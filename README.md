@@ -1,9 +1,6 @@
 ### Hi there 👋, My name is Khoa
 #### Svelte Dev + UI/UX Designer
 
-
-<img src="https://github.com/wentallout/wentallout/blob/main/devcard.svg" width="400" alt="wentallout"/>
-
 - Frontend: SvelteKit
 - Backend: .NET API
 - Database: SQL
