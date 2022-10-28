@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Khoa
-#### Svelte Dev + UI/UX Designer
+#### SvelteKit Developer + UI/UX Designer
 
 - Frontend: SvelteKit
 - Backend: .NET API
