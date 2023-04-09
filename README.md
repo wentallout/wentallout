@@ -2,7 +2,7 @@
 
 I love building accessible and beautiful websites.
 
-## Tech I Use
+## Tech
 
 <table>
   <tr>
@@ -32,7 +32,7 @@ I love building accessible and beautiful websites.
 ## Stats
 
 <p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
