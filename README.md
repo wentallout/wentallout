@@ -31,9 +31,10 @@ I love building accessible and beautiful websites.
 
 ## Stats
 
-<p align="center"> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+![trophy](https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wentallout&theme=onedark)
  
