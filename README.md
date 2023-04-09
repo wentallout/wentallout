@@ -24,4 +24,4 @@ I love building accessible and beautiful websites.
 ## Contact
 
 - ✉ Email: wentallout@gmail.com
-- 🚀 Portfolio: wentallout.tech
+- 🚀 Portfolio: https://wentallout.tech
