@@ -1,11 +1,11 @@
 # Hi, I'm Khoa
 
-## SvelteKit Developer + UI/UX Designer
-
+- UI/UX: Figma
+- Game Dev: Godot
 - Frontend: SvelteKit
 - Backend: .NET API
 - Database: SQL
-- UI/UX: Figma
+
 
 
 - 📫 Contact me: wentallout@gmail.com 
