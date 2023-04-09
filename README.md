@@ -10,7 +10,7 @@ I love building accessible and beautiful websites.
       <a href="#wentallout">
         <img src="./images/svelte.svg" width="48" height="48" />
       </a>
-      <br>Svelte
+      <br>SvelteKit
     </td>
     <td align="center" width="96">
       <a href="#wentallout">
