@@ -20,3 +20,8 @@ I love building accessible and beautiful websites.
     </td> 
   </tr>
 </table>
+
+## Contact
+
+- ✉ Email: wentallout@gmail.com
+- 🚀 Portfolio: wentallout.tech
