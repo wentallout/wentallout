@@ -26,3 +26,8 @@ I love building accessible and beautiful websites. In my free time I make video 
 ✉ Email: wentallout@gmail.com
 
 🚀 Portfolio: https://wentallout.tech
+
+## Stat
+
+// README.md
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wentallout)
