@@ -6,11 +6,37 @@
 - Backend: .NET API
 - Database: SQL
 
+## Tech I Use
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#wentallout">
+        <img src="./img/svelte.svg" width="48" height="48" />
+      </a>
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+      <a href="#wentallout">
+        <img src="./img/godot.svg" width="48" height="48" />
+      </a>
+      <br>Godot
+    </td>
+    <td align="center" width="96">
+      <a href="#wentallout">
+        <img src="./img/figma.svg" width="48" height="48" />
+      </a>
+      <br>Figma
+    </td> 
+  </tr>
+</table>
 
 
-- 📫 Contact me: wentallout@gmail.com 
-- Metrics: https://metrics.lecoq.io/about/wentallout
 
+## Stats
+
+📫 Contact me: wentallout@gmail.com 
+Metrics: https://metrics.lecoq.io/about/wentallout
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
