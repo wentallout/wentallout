@@ -12,19 +12,19 @@
   <tr>
     <td align="center" width="96">
       <a href="#wentallout">
-        <img src="./img/svelte.svg" width="48" height="48" />
+        <img src="./images/svelte.svg" width="48" height="48" />
       </a>
       <br>Svelte
     </td>
     <td align="center" width="96">
       <a href="#wentallout">
-        <img src="./img/godot.svg" width="48" height="48" />
+        <img src="./images/godot.svg" width="48" height="48" />
       </a>
       <br>Godot
     </td>
     <td align="center" width="96">
       <a href="#wentallout">
-        <img src="./img/figma.svg" width="48" height="48" />
+        <img src="./images/figma.svg" width="48" height="48" />
       </a>
       <br>Figma
     </td> 
