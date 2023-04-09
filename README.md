@@ -31,7 +31,6 @@ I love building accessible and beautiful websites.
 
 ## Stats
 
-📫 Contact me: wentallout@gmail.com 
 Metrics: https://metrics.lecoq.io/about/wentallout
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
