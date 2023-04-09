@@ -30,3 +30,5 @@ I love building accessible and beautiful websites. In my free time I make video 
 ## Stat
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wentallout&theme=dracula)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wentallout&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
