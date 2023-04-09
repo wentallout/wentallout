@@ -15,6 +15,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wentallout&theme=onedark)
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wentallout&show_icons=true&theme=onedark)  
-
 ![giphy](https://user-images.githubusercontent.com/76118931/198523652-6def8dfd-e8df-4c56-aa07-9fde1e61b35e.gif)
