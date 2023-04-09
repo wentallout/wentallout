@@ -29,7 +29,7 @@ I love building accessible and beautiful websites. In my free time I make video 
 
 ## Stat
 
-<img with=100% src="https://github-profile-trophy.vercel.app/?username=wentallout&column=9&theme=dracula&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wentallout&column=9&theme=dracula&no-frame=true"/>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wentallout&theme=dracula)
 
