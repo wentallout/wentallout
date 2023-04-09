@@ -1,10 +1,6 @@
 # Hi, I'm Khoa
 
-- UI/UX: Figma
-- Game Dev: Godot
-- Frontend: SvelteKit
-- Backend: .NET API
-- Database: SQL
+I love building accessible and beautiful websites.
 
 ## Tech I Use
 
