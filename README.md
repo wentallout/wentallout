@@ -23,9 +23,9 @@ I love building accessible and beautiful websites. In my free time I make video 
 
 ## Contact
 
-✉ Email: wentallout@gmail.com
+Email: wentallout@gmail.com
 
-🚀 Portfolio: https://wentallout.tech
+Portfolio: https://wentallout.tech
 
 ## Stat
 
