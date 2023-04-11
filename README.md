@@ -34,5 +34,5 @@ Portfolio: https://wentallout.tech
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wentallout&theme=dracula)
 
 <p align="center"> 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wentallout&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula" alt="GitHub stats"></a></p>
 </p>
