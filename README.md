@@ -34,6 +34,8 @@ Portfolio: https://wentallout.tech
 
 <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=dracula&no-frame=true"/>
+
+
+<p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentallout&theme=dracula">
 </p>
-
