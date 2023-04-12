@@ -1,6 +1,6 @@
 # Hi, I'm Khoa
 
-I love building accessible and beautiful websites. In my free time I make video games using Godot.
+I build accessible and beautiful websites. In my free time I make video games using Godot.
 
 ## Tech
 
