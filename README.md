@@ -1,6 +1,8 @@
 # Hi, I'm Khoa
 
-I build accessible and beautiful websites. In my free time I make video games using Godot.
+I build accessible and beautiful websites using the most optimized framework which is Svelte.
+
+In my free time I learn how to make video games using Godot.
 
 ## Tech
 
