@@ -35,8 +35,6 @@ I design and build accessible and beautiful websites.
 
 Email: wentallout@gmail.com
 
-Portfolio: https://wentallout.tech
-
 ## Stat
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula" alt="GitHub stats">
