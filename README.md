@@ -12,6 +12,10 @@ I design and build accessible and beautiful websites.
         <img src="./images/svelte.svg" width="48" height="48" />
       <br>SvelteKit
     </td>
+      <td align="center" width="96">
+        <img src="./images/tailwind.svg" width="48" height="48" />
+      <br>TailwindCSS
+    </td>
     <td align="center" width="96">
         <img src="./images/godot.svg" width="48" height="48" />
       <br>Godot
