@@ -20,6 +20,10 @@ I design and build accessible and beautiful websites.
         <img src="./images/godot.svg" width="48" height="48" />
       <br>Godot
     </td>
+     <td align="center" width="96">
+        <img src="./images/vscode.svg" width="48" height="48" />
+      <br>VSCode
+    </td>
     <td align="center" width="96">
         <img src="./images/figma.svg" width="48" height="48" />
       <br>Figma
