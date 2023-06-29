@@ -1,4 +1,4 @@
-# Hi, I'm Khoa
+<img src="./images/github-banner.svg" />
 
 Web Designer from Ho Chi Minh City, Vietnam.
 
