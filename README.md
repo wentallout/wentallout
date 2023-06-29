@@ -1,8 +1,10 @@
 # Hi, I'm Khoa
 
+Web Designer from Ho Chi Minh City, Vietnam.
+
 Portfolio: https://wentallout.tech
 
-I design friendly and beautiful websites.
+I build friendly and beautiful websites.
 
 ## Tech
 
