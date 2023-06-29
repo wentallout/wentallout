@@ -2,9 +2,7 @@
 
 Portfolio: https://wentallout.tech
 
-I design and build accessible and beautiful websites.
-
-I don't talk with idiots who use WordPress to make their shitty websites.
+I design friendly and beautiful websites.
 
 ## Tech
 
