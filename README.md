@@ -40,10 +40,10 @@ Email: wentallout@gmail.com
 ## Stat
 
 <a href="https://github.com/wentallout">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula&bg_color=00000000" />
 </a>
 <a href="https://github.com/wentallout">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wentallout&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wentallout&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=00000000" />
 </a>
 
 ## Hardware
