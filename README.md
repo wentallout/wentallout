@@ -39,12 +39,12 @@ Email: wentallout@gmail.com
 
 ## Stat
 
-<img src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula" alt="GitHub stats">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=dracula&no-frame=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentallout&theme=dracula">
-
+<a href="https://github.com/wentallout">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula" />
+</a>
+<a href="https://github.com/wentallout">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wentallout&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 
 ## Hardware
 
