@@ -38,17 +38,13 @@ I build friendly and beautiful websites.
 Email: wentallout@gmail.com
 
 ## Stat
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula" alt="GitHub stats">
-</p> 
 
-<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula" alt="GitHub stats">
+
 <img src="https://github-profile-trophy.vercel.app/?username=wentallout&row=2&column=3&theme=dracula&no-frame=true"/>
 
-
-<p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wentallout&theme=dracula">
-</p>
+
 
 ## Hardware
 
