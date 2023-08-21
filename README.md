@@ -1,10 +1,8 @@
 <img src="./images/github-banner.svg" />
 
-Web Designer from Ho Chi Minh City, Vietnam.
+🗺 Ho Chi Minh City, Vietnam.
 
 Portfolio: https://wentallout.io.vn
-
-I build friendly and beautiful websites.
 
 ## Tech
 
