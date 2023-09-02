@@ -1,5 +1,7 @@
 <img src="./images/github-banner.svg" />
 
+PIXEL-PERFECT OR NOTHING
+
 🗺 Ho Chi Minh City, Vietnam.
 
 Portfolio: https://wentallout.io.vn
