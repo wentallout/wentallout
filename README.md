@@ -29,7 +29,11 @@ Portfolio: https://wentallout.io.vn
     <td align="center" width="96">
         <img src="./images/figma.svg" width="48" height="48" />
       <br>Figma
-    </td> 
+    </td>
+    <td align="center" width="96">
+        <img src="./images/photoshop.svg" width="48" height="48" />
+      <br>Photoshop
+    </td>
   </tr>
 </table>
 
