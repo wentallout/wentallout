@@ -1,10 +1,10 @@
 <img src="./images/github-banner.svg" />
 
-PIXEL-PERFECT OR NOTHING
+🌐 Portfolio: https://wentallout.io.vn
+😎 Name: Nguyen Dang Khoa
+🗺 Location: Ho Chi Minh City, Vietnam.
+🏓 Hobbies: Mechanical keyboards, video games design, music
 
-🗺 Ho Chi Minh City, Vietnam.
-
-Portfolio: https://wentallout.io.vn
 
 ## Tech
 
