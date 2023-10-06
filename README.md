@@ -2,6 +2,8 @@
 
 🌐 Portfolio: https://wentallout.io.vn
 
+⌨ Monkeytype: https://monkeytype.com/profile/wentallout
+
 😎 Name: Nguyen Dang Khoa
 
 🗺 Location: Ho Chi Minh City, Vietnam
