@@ -61,4 +61,6 @@ Email: wentallout@gmail.com
 
 ## Personality
 
+<img src="./images/personality.jpg" />
+
 
