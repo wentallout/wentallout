@@ -8,7 +8,7 @@
 
 🗺 Location: Ho Chi Minh City, Vietnam
 
-🏓 Hobbies: Mechanical keyboards, video games, music, dystopian movies
+🏓 Hobbies: Mechanical keyboards, video games, music, sci-fi movies
 
 
 ## Tech
