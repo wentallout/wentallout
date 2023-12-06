@@ -59,8 +59,6 @@ Email: wentallout@gmail.com
 
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i5-12400f&memory=16gb&gpu=nvidia-geforce-rtx-4060-laptop-gpu&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i5-12400f/16gb/nvidia-geforce-rtx-4060-laptop-gpu/twitch.png"></a>
 
-## Personality
 
-<img src="./images/personality.jpg" />
 
 
