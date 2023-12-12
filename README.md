@@ -10,6 +10,9 @@
 
 🏓 Hobbies: Mechanical keyboards, video games, music, sci-fi movies
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## Tech
 
