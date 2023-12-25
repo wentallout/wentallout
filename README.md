@@ -67,6 +67,10 @@ Email: wentallout@gmail.com
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wentallout&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=00000000" />
 </a>
 
+## What is Svelte?
+
+Svelte is quite different from other modern client-side JavaScript frameworks such as React. Svelte is a compiler that shifts your work into a compile step rather than using a Virtual DOM. This happens when you build your app by converting the components into highly efficient code.
+
 
 
 
