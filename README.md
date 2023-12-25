@@ -67,10 +67,6 @@ Email: wentallout@gmail.com
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wentallout&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=00000000" />
 </a>
 
-## Hardware
-
-<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=intel-core-i5-12400f&memory=16gb&gpu=nvidia-geforce-rtx-4060-laptop-gpu&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i5-12400f/16gb/nvidia-geforce-rtx-4060-laptop-gpu/twitch.png"></a>
-
 
 
 
