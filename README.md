@@ -23,7 +23,7 @@ Markdown     2 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-## Tech
+## Stack
 
 <table>
   <tr>
