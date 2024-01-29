@@ -61,6 +61,8 @@ JSON         7 mins          ▓░░░░░░░░░░░░░░░░
 
 Email: wentallout@gmail.com
 
+<a href="https://www.buymeacoffee.com/wentallout" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## Stat
 
 <a href="https://github.com/wentallout">
