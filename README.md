@@ -16,8 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte   24 mins         ████████████████████████▒   97.62 %
-CSS      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
