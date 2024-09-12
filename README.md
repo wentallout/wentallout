@@ -16,7 +16,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   27 mins         █████████████████████████   100.00 %
+Svelte   34 mins         █████████████▓░░░░░░░░░░░   55.07 %
+Other    27 mins         ███████████▒░░░░░░░░░░░░░   44.93 %
 ```
 
 <!--END_SECTION:waka-->
