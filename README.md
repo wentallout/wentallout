@@ -16,11 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 17 mins    ██████████▒░░░░░░░░░░░░░░   41.91 %
-JavaScript   1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.43 %
-Svelte       34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-HTML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
