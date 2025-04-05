@@ -13,6 +13,8 @@
 
 🏓 Hobbies: Mechanical keyboards, video games, music, sci-fi movies
 
+Personality type: [ISTJ](https://www.topcv.vn/mbti/nhom-tinh-cach-istj.html)
+
 <!--START_SECTION:waka-->
 
 ```txt
