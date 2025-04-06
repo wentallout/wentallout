@@ -18,11 +18,11 @@ Personality type: [ISTJ](https://www.topcv.vn/mbti/nhom-tinh-cach-istj.html)
 <!--START_SECTION:waka-->
 
 ```txt
-Svelte       4 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 %
-JavaScript   3 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   27.80 %
-TypeScript   1 hr 58 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-Text         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Markdown     49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Svelte       4 hrs 16 mins   █████████▒░░░░░░░░░░░░░░░   36.68 %
+JavaScript   2 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+TypeScript   1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Markdown     51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Bash         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
 ```
 
 <!--END_SECTION:waka-->
