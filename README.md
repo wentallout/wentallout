@@ -20,11 +20,11 @@ MI Test: [MI](https://www.topcv.vn/mi/result/c9cb2d9663d901131a3ad69af669d02b)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 23 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 %
-Svelte       2 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.72 %
-Markdown     53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-TypeScript   46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Svelte       1 hr 45 mins    ███████▓░░░░░░░░░░░░░░░░░   30.51 %
+Markdown     1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   28.10 %
+JavaScript   1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+TypeScript   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 ```
 
 <!--END_SECTION:waka-->
