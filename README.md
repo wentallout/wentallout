@@ -78,12 +78,8 @@ CSS          15 mins         ▓░░░░░░░░░░░░░░░░
 
 ## What is Svelte?
 
-Svelte is quite different from other modern client-side JavaScript frameworks such as React. Svelte is a compiler that shifts your work into a compile step rather than using a Virtual DOM. This happens when you build your app by converting the components into highly efficient code.
+Svelte is quite different from other modern client-side JavaScript frameworks such as React. Svelte is a compiler that shifts your work into a compile step rather than using a Virtual DOM. This happens when you build your app by converting the components into highly efficient code. [Svelte Changelog](https://svelte-changelog.vercel.app)
 
-[Svelte Changelog](https://svelte-changelog.vercel.app)
+## My 3D Experiment
 
-<blockquote>
-life is not a problem to be solved, but a reality to be experienced
-</blockquote>
-
-
+https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
