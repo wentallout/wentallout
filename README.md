@@ -11,13 +11,6 @@
 
 🗺 Location: Ho Chi Minh City, Vietnam
 
-🏓 Hobbies: Mechanical keyboards, video games, music, sci-fi movies
-
-Personality type: [ISTJ](https://www.topcv.vn/mbti/nhom-tinh-cach-istj.html)  
-
-MI Test: [MI](https://www.topcv.vn/mi/result/c9cb2d9663d901131a3ad69af669d02b)
-
-
 ## Stack
 
 <table>
