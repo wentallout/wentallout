@@ -60,3 +60,7 @@
 ## My 3D Experiment
 
 https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
+
+## Learning material
+
+TypeScript: https://flaviocopes.pages.dev/books/typescript-handbook.pdf
