@@ -63,4 +63,5 @@ https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
 
 ## Learning material
 
+HTML: https://flaviocopes.pages.dev/books/html-handbook.pdf
 TypeScript: https://flaviocopes.pages.dev/books/typescript-handbook.pdf
