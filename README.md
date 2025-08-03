@@ -66,3 +66,7 @@ https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
 - HTML: https://flaviocopes.pages.dev/books/html-handbook.pdf
 - TypeScript: https://flaviocopes.pages.dev/books/typescript-handbook.pdf
 - Git: https://flaviocopes.pages.dev/books/git-cheat-sheet.pdf
+
+## Tools
+
+https://gitingest.com - Turn repo into text for LLMs.
