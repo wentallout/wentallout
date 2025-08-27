@@ -82,3 +82,5 @@ Three phases: Research, Plan, Implement.
 
 This is not magic => You still have to read the PLAN.
 
+https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
+
