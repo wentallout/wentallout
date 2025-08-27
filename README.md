@@ -67,8 +67,18 @@ https://gitingest.com - Turn repo into text for LLMs.
 
 ## Coding with AI
 
-
-<img width="817" height="510" alt="image" src="https://github.com/user-attachments/assets/11dba020-6c2f-416e-b5d2-3b2bbbc2a7a0" />
+<img width="250" height="156" alt="image" src="https://github.com/user-attachments/assets/11dba020-6c2f-416e-b5d2-3b2bbbc2a7a0" />
 
 The name of the game is that you only have approximately 170k of context window to work with. So it's essential to use as little of it as possible. The more you use the context window, the worse the outcomes you'll get.
+
+Frequent Intentional Compaction: building your entire workflow around context management
+Goal: Keep Context Utilization under 40%
+
+Three phases: Research, Plan, Implement.
+
+Research step: Understand how the system works, find all relevant files, explore causes of XYZ bug. Output: 9:24
+Plan step: outline the exact implementation steps, include file names, lines and snippets, explicit about testing steps
+Implement step: Go write the code. "If properly planned, the implementation is easy and expected." Keep context under 40%
+
+This is not magic => You still have to read the PLAN.
 
