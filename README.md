@@ -68,3 +68,8 @@ https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
 ## Tools
 
 https://gitingest.com - Turn repo into text for LLMs.
+
+## Coding with AI
+
+<img width="817" height="510" alt="image" src="https://github.com/user-attachments/assets/11dba020-6c2f-416e-b5d2-3b2bbbc2a7a0" />
+
