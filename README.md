@@ -76,9 +76,9 @@ Goal: Keep Context Utilization under 40%
 
 Three phases: Research, Plan, Implement.
 
-Research step: Understand how the system works, find all relevant files, explore causes of XYZ bug. Output: 9:24
-Plan step: outline the exact implementation steps, include file names, lines and snippets, explicit about testing steps
-Implement step: Go write the code. "If properly planned, the implementation is easy and expected." Keep context under 40%
+- Research step: Understand how the system works, find all relevant files, explore causes of XYZ bug. Output: 9:24
+- Plan step: outline the exact implementation steps, include file names, lines and snippets, explicit about testing steps
+- Implement step: Go write the code. "If properly planned, the implementation is easy and expected." Keep context under 40%
 
 This is not magic => You still have to read the PLAN.
 
