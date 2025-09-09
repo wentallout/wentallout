@@ -9,33 +9,37 @@
 
 🗺 Location: Ho Chi Minh City, Vietnam
 
-## Stack
+## My Tech Stack
+
+Language: TypeScript
+Framework: SvelteKit
+Styling: TailwindCSS, [shadcn-svelte](https://shadcn-svelte.com)
+Database: Postgres, Supabase
+Deploy: Vercel, Netlify
+Testing: Playwright
+AI Assistant: Claude Code
+Backend Deploy: render.com (Web Services, API)
+
 
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="./images/svelte.svg" width="48" height="48" />
-      <br>SvelteKit
+        <img src="./images/svelte.svg" width="48" height="48" />  
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="./images/tailwind.svg" width="48" height="48" />
-      <br>TailwindCSS
     </td>
     <td align="center" width="96">
         <img src="./images/godot.svg" width="48" height="48" />
-      <br>Godot
     </td>
      <td align="center" width="96">
         <img src="./images/vscode.svg" width="48" height="48" />
-      <br>VSCode
     </td>
     <td align="center" width="96">
         <img src="./images/figma.svg" width="48" height="48" />
-      <br>Figma
     </td>
     <td align="center" width="96">
         <img src="./images/photoshop.svg" width="48" height="48" />
-      <br>Photoshop
     </td>
   </tr>
 </table>
