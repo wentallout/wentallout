@@ -11,14 +11,14 @@
 
 ## My Tech Stack
 
-Language: TypeScript
-Framework: SvelteKit
-Styling: TailwindCSS, [shadcn-svelte](https://shadcn-svelte.com)
-Database: Postgres, Supabase
-Deploy: Vercel, Netlify
-Testing: Playwright
-AI Assistant: Claude Code
-Backend Deploy: render.com (Web Services, API)
+- Language: TypeScript
+- Framework: SvelteKit
+- Styling: TailwindCSS, [shadcn-svelte](https://shadcn-svelte.com)
+- Database: Postgres, Supabase
+- Deploy: Vercel, Netlify
+- Testing: Playwright
+- AI Assistant: Claude Code
+- Backend Deploy: render.com (Web Services, API)
 
 
 <table>
