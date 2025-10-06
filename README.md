@@ -15,7 +15,7 @@
 - Framework: SvelteKit
 - Styling: TailwindCSS, [shadcn-svelte](https://shadcn-svelte.com)
 - Database: Postgres, Supabase
-- Deploy: Vercel, Netlify
+- Deploy: Netlify
 - Testing: Playwright
 - AI Assistant: Claude Code
 - Workflow Automation: n8n
