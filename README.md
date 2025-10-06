@@ -18,6 +18,7 @@
 - Deploy: Vercel, Netlify
 - Testing: Playwright
 - AI Assistant: Claude Code
+- Workflow Automation: n8n
 - Backend Deploy: render.com (Web Services, API)
 
 
