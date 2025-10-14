@@ -61,6 +61,15 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wentallout&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=00000000" />
 </a>
 
+## Svelte remote function
+
+`query`: read dynamic data from the server.
+
+`query.batch`: solves the n+1 problem.
+
+`form`: can use with zod
+
+
 ## My 3D Experiment
 
 https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
