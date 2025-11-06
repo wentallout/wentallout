@@ -65,15 +65,10 @@ Working on: https://learn-less.netlify.app/
 
 `form`: can use with zod
 
-
-## My 3D Experiment
-
-https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
-
-
 ## Tools to work with AI
 
 https://gitingest.com - Turn repo into text for LLMs.
+Serena: https://github.com/oraios/serena - coding agent toolkit
 
 
 ## Coding with AI
@@ -98,4 +93,8 @@ https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
 ## Misc
 
 😎 Theme made by me: https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle
+
+## My 3D Experiment
+
+https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
 
