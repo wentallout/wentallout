@@ -1,13 +1,9 @@
 
 <img src="./images/github-banner.svg" />
 
+Working on: https://learn-less.netlify.app/
+
 🌐 Portfolio: https://wentallout.io.vn
-
-
-
-
-
-🗺 Location: Ho Chi Minh City, Vietnam
 
 ## My Tech Stack
 
