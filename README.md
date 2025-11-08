@@ -14,6 +14,10 @@ Working on: https://learn-less.netlify.app/
 - Validation: [Zod](https://zod.dev)
 - Deploy: Netlify
 - Testing: Playwright
+
+## Other
+
+- Captcha: https://www.better-captcha.dev/
 - AI Assistant: Claude Code
 - Workflow Automation: n8n
 - Backend Deploy: render.com (Web Services, API)
