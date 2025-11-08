@@ -94,7 +94,3 @@ https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
 
 😎 Theme made by me: https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle
 
-## My 3D Experiment
-
-https://github.com/user-attachments/assets/c07d92f6-71c4-40ce-af95-857376b873b2
-
