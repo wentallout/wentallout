@@ -31,17 +31,11 @@ Working on: https://learn-less.netlify.app/
     <td align="center" width="96">
         <img src="./images/tailwind.svg" width="48" height="48" />
     </td>
-    <td align="center" width="96">
-        <img src="./images/godot.svg" width="48" height="48" />
-    </td>
      <td align="center" width="96">
         <img src="./images/vscode.svg" width="48" height="48" />
     </td>
     <td align="center" width="96">
         <img src="./images/figma.svg" width="48" height="48" />
-    </td>
-    <td align="center" width="96">
-        <img src="./images/photoshop.svg" width="48" height="48" />
     </td>
   </tr>
 </table>
