@@ -88,6 +88,10 @@ This is not magic => You still have to read the PLAN.
 
 https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
 
+## Writing with AI
+
+https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
+
 ## Misc
 
 😎 Theme made by me: https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle
