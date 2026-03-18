@@ -92,6 +92,10 @@ https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
 
 https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
 
+## Moving away from React is possible
+
+https://strawberrybrowser.com/blog/react-to-svelte
+
 ## Misc
 
 😎 Theme made by me: https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle
