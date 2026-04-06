@@ -68,6 +68,12 @@ Working on: https://learn-less.netlify.app/
 https://gitingest.com - Turn repo into text for LLMs.
 Serena: https://github.com/oraios/serena - coding agent toolkit
 
+## Slow down and write better with AI
+
+https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down
+
+https://docs.fallow.tools
+
 
 ## Coding with AI
 
