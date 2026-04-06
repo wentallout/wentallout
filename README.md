@@ -15,6 +15,10 @@ Working on: https://learn-less.netlify.app/
 - Deploy: Netlify
 - Testing: Playwright
 
+## Give your LLM a skill boost
+
+https://github.com/midudev/autoskills
+
 ## Other
 
 - Captcha: https://www.better-captcha.dev/
