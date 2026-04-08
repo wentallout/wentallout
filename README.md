@@ -44,6 +44,11 @@ https://github.com/midudev/autoskills
   </tr>
 </table>
 
+## SvelteBench
+
+<img width="1105" height="337" alt="{47358F80-02F0-4785-B903-4F6C08E0B327}" src="https://github.com/user-attachments/assets/2d0b755e-7569-4499-b60b-93b00ee0fcb5" />
+
+
 ## Contact
 
 ✉️ Email: wentallout@gmail.com
