@@ -50,15 +50,6 @@ https://github.com/midudev/autoskills
 
 <a href="https://www.buymeacoffee.com/wentallout" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-## Stat
-
-<a href="https://github.com/wentallout">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wentallout&amp;theme=dracula&bg_color=00000000" />
-</a>
-<a href="https://github.com/wentallout">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wentallout&layout=compact&langs_count=8&card_width=320&theme=dracula&bg_color=00000000" />
-</a>
-
 ## Svelte remote function
 
 `query`: read dynamic data from the server.
