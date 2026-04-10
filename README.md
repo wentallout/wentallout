@@ -25,6 +25,9 @@ Working on: https://learn-less.netlify.app/
 - Give your AI a bunch of relevant skills: https://github.com/midudev/autoskills
 - Clean your messy AI generated code: https://docs.fallow.tools
 
+https://gitingest.com - Turn repo into text for LLMs.
+Serena: https://github.com/oraios/serena - coding agent toolkit
+
 
 ## Tech
 
@@ -55,29 +58,9 @@ Working on: https://learn-less.netlify.app/
 [arena.ai - Coding category](https://arena.ai/leaderboard/text/coding)
 [SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
 
-
-## Contact
-
-<a href="https://www.buymeacoffee.com/wentallout" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-## Svelte remote function
-
-`query`: read dynamic data from the server.
-
-`query.batch`: solves the n+1 problem.
-
-`form`: can use with zod
-
-## Tools to work with AI
-
-https://gitingest.com - Turn repo into text for LLMs.
-Serena: https://github.com/oraios/serena - coding agent toolkit
-
 ## Slow down and write better with AI
 
 https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down
-
-https://docs.fallow.tools
 
 ## Coding with AI
 
@@ -109,4 +92,7 @@ https://strawberrybrowser.com/blog/react-to-svelte
 ## Misc
 
 😎 Theme made by me: https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle
+
+
+<a href="https://www.buymeacoffee.com/wentallout" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
