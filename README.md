@@ -15,22 +15,6 @@ Working on: https://learn-less.netlify.app/
 - Validation: [Zod](https://zod.dev)
 - Deploy: Netlify
 - Testing: Playwright
-
-## Main strategy to coding with AI
-
-- We have 2 types of projects: well-known requirements (domain experience, well defined user stories, usage requirements, dataset requirements) and uncertain requirements (vibes, experiments, prototypes). For well-known requirements, we always go with PLAN MODE, build as much context into your plan as possible, iterate on the plan multiple time, read the plan, make sure every edge cases are covered. Then from PLAN we go into IMPLEMENT (during IMPLEMENT we're gonna have to deal with missed requirements and bad codes, which leads to us iterating on it for a long time)
-- For Uncertain Requirements: PROMPT -> PROMPT -> PROMPT -> ITERATE
-- Stick to one task/feature, clean your session frequently
-- Whiteboard: https://www.tldraw.com
-- Give your AI a bunch of relevant skills: https://github.com/midudev/autoskills
-- Clean your messy AI generated code: https://docs.fallow.tools
-
-https://gitingest.com - Turn repo into text for LLMs.
-Serena: https://github.com/oraios/serena - coding agent toolkit
-
-
-## Tech
-
 - Captcha: https://www.better-captcha.dev/
 - AI Assistant: Claude Code
 - Workflow Automation: n8n
@@ -52,6 +36,20 @@ Serena: https://github.com/oraios/serena - coding agent toolkit
     </td>
   </tr>
 </table>
+
+## Main strategy to coding with AI
+
+- We have 2 types of projects: well-known requirements (domain experience, well defined user stories, usage requirements, dataset requirements) and uncertain requirements (vibes, experiments, prototypes). For well-known requirements, we always go with PLAN MODE, build as much context into your plan as possible, iterate on the plan multiple time, read the plan, make sure every edge cases are covered. Then from PLAN we go into IMPLEMENT (during IMPLEMENT we're gonna have to deal with missed requirements and bad codes, which leads to us iterating on it for a long time)
+- For Uncertain Requirements: PROMPT -> PROMPT -> PROMPT -> ITERATE
+- Stick to one task/feature, clean your session frequently
+- Whiteboard: https://www.tldraw.com
+- Give your AI a bunch of relevant skills: https://github.com/midudev/autoskills
+- Clean your messy AI generated code: https://docs.fallow.tools
+
+https://gitingest.com - Turn repo into text for LLMs.
+Serena: https://github.com/oraios/serena - coding agent toolkit
+
+[Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
 
 ## LLM Leaderboard
 
