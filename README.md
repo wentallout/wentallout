@@ -1,10 +1,9 @@
 
 <img src="./images/github-banner.svg" />
 
-✉️ Contact me at: wentallout@gmail.com
-Working on: https://learn-less.netlify.app/
-
-🌐 Portfolio: https://wentallout.io.vn
+- Contact me at: wentallout@gmail.com
+- Working on: https://learn-less.netlify.app/
+- Portfolio: https://wentallout.io.vn
 
 ## My Tech Stack
 
@@ -46,10 +45,9 @@ Working on: https://learn-less.netlify.app/
 - Whiteboard: https://www.tldraw.com
 - Give your AI a bunch of relevant skills: https://github.com/midudev/autoskills
 - Clean your messy AI generated code: https://docs.fallow.tools
-- Research first: https://sci-bot.ru/
-
-https://gitingest.com - Turn repo into text for LLMs.
-Serena: https://github.com/oraios/serena - coding agent toolkit
+- Research first: [sci-bot](https://sci-bot.ru)
+- [gitingest](https://gitingest.com) - Turn repo into text for LLMs.
+- [Serena](https://github.com/oraios/serena) - coding agent toolkit
 
 [Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
 
