@@ -1,6 +1,7 @@
 
 <img src="./images/github-banner.svg" />
 
+✉️ Contact me at: wentallout@gmail.com
 Working on: https://learn-less.netlify.app/
 
 🌐 Portfolio: https://wentallout.io.vn
@@ -8,24 +9,29 @@ Working on: https://learn-less.netlify.app/
 ## My Tech Stack
 
 - Language: TypeScript
-- Framework: SvelteKit
+- Framework: [SvelteKit](https://svelte.dev)
 - Styling: TailwindCSS, [shadcn-svelte](https://shadcn-svelte.com)
 - Database: Postgres, Supabase
 - Validation: [Zod](https://zod.dev)
 - Deploy: Netlify
 - Testing: Playwright
 
-## Give your LLM a skill boost
+## Main strategy to coding with AI
 
-https://github.com/midudev/autoskills
+- We have 2 types of projects: well-known requirements (domain experience, well defined user stories, usage requirements, dataset requirements) and uncertain requirements (vibes, experiments, prototypes). For well-known requirements, we always go with PLAN MODE, build as much context into your plan as possible, iterate on the plan multiple time, read the plan, make sure every edge cases are covered. Then from PLAN we go into IMPLEMENT (during IMPLEMENT we're gonna have to deal with missed requirements and bad codes, which leads to us iterating on it for a long time)
+- For Uncertain Requirements: PROMPT -> PROMPT -> PROMPT -> ITERATE
+- Stick to one task/feature, clean your session frequently
+- Whiteboard: https://www.tldraw.com
+- Give your AI a bunch of relevant skills: https://github.com/midudev/autoskills
+- Clean your messy AI generated code: https://docs.fallow.tools
 
-## Other
+
+## Tech
 
 - Captcha: https://www.better-captcha.dev/
 - AI Assistant: Claude Code
 - Workflow Automation: n8n
 - Backend Deploy: render.com (Web Services, API)
-
 
 <table>
   <tr>
@@ -44,14 +50,13 @@ https://github.com/midudev/autoskills
   </tr>
 </table>
 
-## SvelteBench
+## LLM Leaderboard
 
-<img width="1105" height="337" alt="{47358F80-02F0-4785-B903-4F6C08E0B327}" src="https://github.com/user-attachments/assets/2d0b755e-7569-4499-b60b-93b00ee0fcb5" />
+[arena.ai - Coding category](https://arena.ai/leaderboard/text/coding)
+[SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
 
 
 ## Contact
-
-✉️ Email: wentallout@gmail.com
 
 <a href="https://www.buymeacoffee.com/wentallout" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
@@ -73,7 +78,6 @@ Serena: https://github.com/oraios/serena - coding agent toolkit
 https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down
 
 https://docs.fallow.tools
-
 
 ## Coding with AI
 
@@ -98,7 +102,7 @@ https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
 
 https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
 
-## Moving away from React is possible
+## Moving from React to Svelte
 
 https://strawberrybrowser.com/blog/react-to-svelte
 
