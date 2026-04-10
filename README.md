@@ -42,12 +42,12 @@
 - For well-known requirements, we always go with PLAN MODE, build as much context into your plan as possible, iterate on the plan multiple time, read the plan, make sure every edge cases are covered. Then from PLAN we go into IMPLEMENT. During IMPLEMENT we're gonna have to deal with missed requirements and bad codes, which leads to us iterating on it for a long time until it's completed and tested.
 - For Uncertain Requirements: PROMPT -> PROMPT -> PROMPT -> ITERATE
 - Stick to one task/feature in one codingg session, clean your session frequently
-- Whiteboard: https://www.tldraw.com
-- Give your AI a bunch of relevant skills: https://github.com/midudev/autoskills
-- Clean your messy AI generated code: https://docs.fallow.tools
-- Research first: [sci-bot](https://sci-bot.ru)
-- [gitingest](https://gitingest.com) - Turn repo into text for LLMs.
-- [Serena](https://github.com/oraios/serena) - coding agent toolkit
+- [tldraw](https://www.tldraw.com): Whiteboarding
+- [midudev/autoskills](https://github.com/midudev/autoskills): Give your AI a bunch of relevant skills
+- [Fallow](https://docs.fallow.tools): Clean your messy AI generated code:
+- [sci-bot](https://sci-bot.ru): research is important
+- [gitingest](https://gitingest.com): Turn repo into text for LLMs.
+- [Serena](https://github.com/oraios/serena): coding agent toolkit
 
 [Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
 
