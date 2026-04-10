@@ -46,6 +46,7 @@ Working on: https://learn-less.netlify.app/
 - Whiteboard: https://www.tldraw.com
 - Give your AI a bunch of relevant skills: https://github.com/midudev/autoskills
 - Clean your messy AI generated code: https://docs.fallow.tools
+- Research first: https://sci-bot.ru/
 
 https://gitingest.com - Turn repo into text for LLMs.
 Serena: https://github.com/oraios/serena - coding agent toolkit
