@@ -69,11 +69,9 @@ Three phases: Research, Plan, Implement.
 
 This is not magic => You still have to read the PLAN.
 
-## Why does my writing look AI-generated?
+## Makes my AI sounds less AI
 
-I made a new skill to help people avoid AI detection: https://github.com/wentallout/write-like-a-human
-
-
+[write-like-a-human](https://github.com/wentallout/write-like-a-human): This is a new skill I made that allow you to bypass AI writing detection
 
 ## Useful links
 
