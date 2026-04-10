@@ -85,7 +85,7 @@ https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
 
 I made a new skill to improve AI writing: https://github.com/wentallout/write-like-a-human
 
-https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing
+[Signs_of_AI_writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
 
 ## Moving from React to Svelte
 
