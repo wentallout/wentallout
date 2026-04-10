@@ -51,16 +51,8 @@
 
 [Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
 
-## LLM Leaderboard
 
-[arena.ai - Coding category](https://arena.ai/leaderboard/text/coding)
-[SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
-
-## Slow down and write better with AI
-
-https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down
-
-## Coding with AI
+## Context Engineering
 
 <img width="250" height="156" alt="image" src="https://github.com/user-attachments/assets/11dba020-6c2f-416e-b5d2-3b2bbbc2a7a0" />
 
@@ -77,22 +69,20 @@ Three phases: Research, Plan, Implement.
 
 This is not magic => You still have to read the PLAN.
 
-https://youtu.be/IS_y40zY-hc?si=z8M_cw13shSgQ0Ly
+## Why does my writing look AI-generated?
 
-## Writing with AI
-
-I made a new skill to improve AI writing: https://github.com/wentallout/write-like-a-human
-
-[Signs_of_AI_writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
-
-## Moving from React to Svelte
-
-https://strawberrybrowser.com/blog/react-to-svelte
-
-## Misc
-
-😎 Theme made by me: https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle
+I made a new skill to help people avoid AI detection: https://github.com/wentallout/write-like-a-human
 
 
-<a href="https://www.buymeacoffee.com/wentallout" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+## Useful links
+
+- [Signs_of_AI_writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+- [arena.ai - Coding category](https://arena.ai/leaderboard/text/coding)
+- [SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
+- [Slow down and write better with AI](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down)
+- [Moving from React to Svelte](https://strawberrybrowser.com/blog/react-to-svelte)
+
+## My VSCode theme
+
+😎 [khoaneostyle](https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle)
