@@ -7,17 +7,15 @@
 
 ## My Tech Stack
 
-- Language: TypeScript
-- Framework: [SvelteKit](https://svelte.dev)
-- Styling: TailwindCSS, [shadcn-svelte](https://shadcn-svelte.com)
-- Database: Postgres, [Supabase](https://supabase.com)
-- Validation: [Zod](https://zod.dev)
-- Deploy: [Netlify](https://www.netlify.com)
-- Testing: [Playwright](https://playwright.dev/), [sveltest.dev](https://sveltest.dev/)
-- Captcha: [better-captcha](https://www.better-captcha.dev)
-- AI Assistant: Claude Code (too expensive), Antigravity
-- Workflow Automation: n8n
-- Backend Deploy: render.com (Web Services, API)
+- TypeScript: Main coding language
+- [SvelteKit](https://svelte.dev): Main fullstack web framework
+- [TailwindCSS](https://tailwindcss.com), [shadcn-svelte](https://shadcn-svelte.com): styling your app
+- Postgres, [Supabase](https://supabase.com): database
+- [Zod](https://zod.dev): validation
+- [Netlify](https://www.netlify.com): deploy
+- [Playwright](https://playwright.dev/), [sveltest.dev](https://sveltest.dev/): testing
+- [better-captcha](https://www.better-captcha.dev): captcha
+- [Antigravity](https://antigravity.google): AI Assistant
 
 <table>
   <tr>
