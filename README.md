@@ -42,6 +42,8 @@
 
 ## Skills
 
+This is a needle in a haystack proble, there are too many skills out there. Imma try to keep it simple and ignore the noises.
+
 - [write-like-a-human](https://github.com/wentallout/write-like-a-human): a new skill I made that allow you to help your AI writes like humans, no more common AI patterns (not just X, but Y kind of pattern)
 - [midudev/autoskills](https://github.com/midudev/autoskills): Automatically find your agent a bunch of relevant skills by scanning your project
 - [skills.sh](https://skills.sh): find more skills
