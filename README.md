@@ -61,15 +61,15 @@ This is a needle in a haystack proble, there are too many skills out there. Imma
 
 https://www.promptfoo.dev/
 
-### Design Skill
+### Design with AI
 
+[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main)
 [skills/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
-https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md
-
+[anthropics/canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)
 
 ## Research
 
-https://github.com/karpathy/autoresearch
+[autoresearch](https://github.com/karpathy/autoresearch)
 
 ## Main strategy to coding with AI
 
