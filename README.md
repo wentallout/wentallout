@@ -10,12 +10,12 @@
 - Language: TypeScript
 - Framework: [SvelteKit](https://svelte.dev)
 - Styling: TailwindCSS, [shadcn-svelte](https://shadcn-svelte.com)
-- Database: Postgres, Supabase
+- Database: Postgres, [Supabase](https://supabase.com)
 - Validation: [Zod](https://zod.dev)
-- Deploy: Netlify
-- Testing: Playwright
-- Captcha: https://www.better-captcha.dev/
-- AI Assistant: Claude Code
+- Deploy: [Netlify](https://www.netlify.com)
+- Testing: [Playwright](https://playwright.dev/), [sveltest.dev](https://sveltest.dev/)
+- Captcha: [better-captcha](https://www.better-captcha.dev)
+- AI Assistant: Claude Code (too expensive), Antigravity
 - Workflow Automation: n8n
 - Backend Deploy: render.com (Web Services, API)
 
@@ -36,6 +36,17 @@
   </tr>
 </table>
 
+## MCPs
+
+- [Serena](https://github.com/oraios/serena): coding agent toolkit
+- [Supabase MCP](https://supabase.com/docs/guides/getting-started/mcp): MCP to interact with supabase database
+
+## Skills
+
+- [write-like-a-human](https://github.com/wentallout/write-like-a-human): a new skill I made that allow you to help your AI writes like humans, no more common AI patterns (not just X, but Y kind of pattern)
+- [midudev/autoskills](https://github.com/midudev/autoskills): Automatically find your agent a bunch of relevant skills by scanning your project
+- [skills.sh](https://skills.sh): find more skills
+
 ## Main strategy to coding with AI
 
 - We have 2 types of projects: well-known requirements (domain experience, well defined user stories, usage requirements, dataset requirements) and uncertain requirements (vibes, experiments, prototypes).
@@ -43,14 +54,12 @@
 - For Uncertain Requirements: PROMPT -> PROMPT -> PROMPT -> ITERATE
 - Stick to one task/feature in one codingg session, clean your session frequently
 - [tldraw](https://www.tldraw.com): Whiteboarding
-- [midudev/autoskills](https://github.com/midudev/autoskills): Give your AI a bunch of relevant skills
 - [Fallow](https://docs.fallow.tools): Clean your messy AI generated code:
 - [sci-bot](https://sci-bot.ru): research is important
 - [gitingest](https://gitingest.com): Turn repo into text for LLMs.
-- [Serena](https://github.com/oraios/serena): coding agent toolkit
+
 
 [Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
-
 
 ## Context Engineering
 
@@ -68,10 +77,6 @@ Three phases: Research, Plan, Implement.
 - Implement step: Go write the code. "If properly planned, the implementation is easy and expected." Keep context under 40%
 
 This is not magic => You still have to read the PLAN.
-
-## Makes my AI sounds less AI
-
-[write-like-a-human](https://github.com/wentallout/write-like-a-human): This is a new skill I made that allow you to bypass AI writing detection
 
 ## Useful links
 
