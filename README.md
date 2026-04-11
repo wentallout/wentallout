@@ -38,6 +38,7 @@
 
 - [Serena](https://github.com/oraios/serena): coding agent toolkit
 - [Supabase MCP](https://supabase.com/docs/guides/getting-started/mcp): MCP to interact with supabase database
+- [Svelte MCP](https://svelte.dev/docs/ai/remote-setup): very important because I mainly use Svelte
 
 ## Skills
 
@@ -48,9 +49,9 @@
 ## Main strategy to coding with AI
 
 - We have 2 types of projects: well-known requirements (domain experience, well defined user stories, usage requirements, dataset requirements) and uncertain requirements (vibes, experiments, prototypes).
-- For well-known requirements, we always go with PLAN MODE, build as much context into your plan as possible, iterate on the plan multiple time, read the plan, make sure every edge cases are covered. Then from PLAN we go into IMPLEMENT. During IMPLEMENT we're gonna have to deal with missed requirements and bad codes, which leads to us iterating on it for a long time until it's completed and tested.
+- For well-known requirements, we always go with PLAN MODE, build as much context into your plan as possible, iterate on the plan multiple time, read the plan, make sure every edge cases are covered. Then from PLAN we go into IMPLEMENT. During IMPLEMENT we're gonna have to deal with missed requirements and bad codes, which leads to us iterating on it for a long time until it's completed and we can play and test it.
 - For Uncertain Requirements: PROMPT -> PROMPT -> PROMPT -> ITERATE
-- Stick to one task/feature in one codingg session, clean your session frequently
+- Stick to one task/feature in one coding session, clean your session frequently
 - [tldraw](https://www.tldraw.com): Whiteboarding
 - [Fallow](https://docs.fallow.tools): Clean your messy AI generated code:
 - [sci-bot](https://sci-bot.ru): research is important
