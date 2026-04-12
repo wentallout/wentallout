@@ -41,7 +41,7 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 - [Serena](https://github.com/oraios/serena): coding agent toolkit
 - [Supabase MCP](https://supabase.com/docs/guides/getting-started/mcp): MCP to interact with supabase database
 - [Svelte MCP](https://svelte.dev/docs/ai/remote-setup): very important because I mainly use Svelte
-- Context7
+- [Context7](https://context7.com)
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp)
 
@@ -55,7 +55,7 @@ This is a needle in a haystack proble, there are too many skills out there. Imma
 - [skills.sh](https://skills.sh): find more skills
 - https://github.com/obra/superpowers
 - [marketingskills by Corey](https://github.com/coreyhaines31/marketingskills): marketing
-- https://gptr.dev/
+
 
 ## Security
 
@@ -63,13 +63,14 @@ https://www.promptfoo.dev/
 
 ### Design with AI
 
-[VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main)
-[skills/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
-[anthropics/canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main)
+- [skills/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
+- [anthropics/canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)
 
 ## Research
 
-[autoresearch](https://github.com/karpathy/autoresearch)
+- [GPTR](https://gptr.dev) - AI mate for rapid deep research
+- [autoresearch](https://github.com/karpathy/autoresearch)
 
 ## Main strategy to coding with AI
 
@@ -111,28 +112,20 @@ This is not magic => You still have to read the PLAN.
 - [Slow down and write better with AI](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down)
 - [Moving from React to Svelte](https://strawberrybrowser.com/blog/react-to-svelte)
 
-## Other stuff I need to check out
+## Other cool stuff I dont use
 
-
-6. Task Master AI MCP: https://github.com/eyaltoledano/claud...
-7. Playwright MCP: https://github.com/executeautomation/...
-8. Tavily: https://github.com/tavily-ai/tavily-mcp
+Task Master AI MCP: https://github.com/eyaltoledano/claud...
+[Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
 9. Codebase Memory MCP: https://github.com/DeusData/codebase-...
-10. PDF Processing: https://github.com/anthropics/skills/...
-11. XLSX: https://github.com/anthropics/skills/...
-12. PPTX: https://github.com/anthropics/skills/...
-13. Doc Co-Authoring: https://github.com/anthropics/skills/...
-
-15. Web Artifacts Builder: https://github.com/anthropics/skills/...
-16. Marketing Skills by Corey Haines: https://github.com/coreyhaines31/mark...
-17. Claude SEO: https://github.com/AgriciDaniel/claud...
-18. Brand Guidelines: https://github.com/anthropics/skills/...
-19. Deep Research Skill: https://github.com/199-biotechnologie...
-20. GPT Researcher: https://github.com/assafelovic/gpt-re...
-
-  
-22. Obsidian Skills: https://github.com/kepano/obsidian-sk...
-
+- [Doc Co-Authoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)
+- Marketing Skills by Corey Haines: https://github.com/coreyhaines31/mark...
+- Claude SEO: https://github.com/AgriciDaniel/claud...
+- Brand Guidelines: https://github.com/anthropics/skills/...
+- Deep Research Skill: [https://github.com/199-biotechnologie...](https://github.com/199-biotechnologies/claude-deep-research-skill)
+- GPT Researcher: https://github.com/assafelovic/gpt-re...
+- [Obsidian Skills](https://github.com/kepano/obsidian-skills)
+- Firecrawl: https://github.com/mendableai/firecrawl
+- Langflow: https://github.com/langflow-ai/langflow
 
 ## Making videos 
 
@@ -142,27 +135,20 @@ Remotion: https://github.com/remotion-dev/remotion
 
 https://github.com/anthropics/skills/tree/main/skills/skill-creator
 
-  
-25. Context Optimization: https://github.com/muratcankoylan/age...
-26. promptfoo: https://github.com/promptfoo/promptfoo
-27. Skill Creator: https://github.com/anthropics/skills/...
+## Context 
+Context Optimization: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/memory-systems/SKILL.md
+
+## Security
+promptfoo: https://github.com/promptfoo/promptfoo
 
 ## Zapier but you own everything
 n8n: https://github.com/n8n-io/n8n
 
-
-## Firecrawl
-- Firecrawl: https://github.com/mendableai/firecrawl
-
-Langflow: https://github.com/langflow-ai/langflow
-
-
 ## Find more skills
 
-Official Anthropic Skills Repo: https://github.com/anthropics/skills
-SkillsMP: https://skillsmp.com
-SkillHub: https://skillhub.club
-
+- Official Anthropic Skills Repo: https://github.com/anthropics/skills
+- SkillsMP: https://skillsmp.com
+- SkillHub: https://skillhub.club
 
 ## News
 
