@@ -141,9 +141,6 @@ Context Optimization: https://github.com/muratcankoylan/Agent-Skills-for-Context
 ## Security
 promptfoo: https://github.com/promptfoo/promptfoo
 
-## Zapier but you own everything
-n8n: https://github.com/n8n-io/n8n
-
 ## Find more skills
 
 - Official Anthropic Skills Repo: https://github.com/anthropics/skills
