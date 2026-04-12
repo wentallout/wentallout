@@ -34,6 +34,10 @@
   </tr>
 </table>
 
+## AI Global rules
+
+[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills/blob/main/CLAUDE.md)
+
 ## MCPs
 
 MCPs let your agent connect to outside tools (browser, internet, api)
