@@ -155,6 +155,12 @@ promptfoo: https://github.com/promptfoo/promptfoo
 
 https://tom-doerr.github.io/repo_posts/
 
+## Network Security
+
+Go to https://www.grc.com/shieldsup and scan
+
+Privacy Badger: https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
+
 ## My VSCode theme
 
 😎 [khoaneostyle](https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle)
