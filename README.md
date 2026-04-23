@@ -151,6 +151,10 @@ promptfoo: https://github.com/promptfoo/promptfoo
 - SkillsMP: https://skillsmp.com
 - SkillHub: https://skillhub.club
 
+## Layout without breakpoints
+
+https://frontendmasters.com/blog/building-a-ui-without-breakpoints
+
 ## News
 
 https://tom-doerr.github.io/repo_posts/
