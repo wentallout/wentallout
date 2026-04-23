@@ -3,9 +3,6 @@
 
 
 
-https://github.com/user-attachments/assets/e074e90f-0fe8-4723-9512-8bd504b22021
-
-
 
 - Contact me at: wentallout@gmail.com
 - Working on: https://learn-less.netlify.app/
