@@ -1,6 +1,12 @@
 
 <img src="./images/github-banner.svg" />
 
+
+
+https://github.com/user-attachments/assets/e074e90f-0fe8-4723-9512-8bd504b22021
+
+
+
 - Contact me at: wentallout@gmail.com
 - Working on: https://learn-less.netlify.app/
 - Portfolio: https://wentallout.io.vn
