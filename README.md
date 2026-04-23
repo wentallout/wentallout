@@ -138,6 +138,10 @@ Task Master AI MCP: https://github.com/eyaltoledano/claud...
 
 Remotion: https://github.com/remotion-dev/remotion
 
+## Is my page agent ready?
+
+[Is Your Site Agent-Ready?](https://isitagentready.com)
+
 ## Making custom skills
 
 https://github.com/anthropics/skills/tree/main/skills/skill-creator
