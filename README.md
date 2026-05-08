@@ -1,9 +1,6 @@
 
 <img src="./images/github-banner.svg" />
 
-
-
-
 - Contact me at: wentallout@gmail.com
 - Working on: https://learn-less.netlify.app/
 - Portfolio: https://wentallout.io.vn
@@ -173,6 +170,10 @@ Go to https://www.grc.com/shieldsup and scan
 Privacy Badger: https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
 
 https://www.privacyinternational.org/guide-step/4319/como-instalar-un-bloqueador-de-anuncios-en-android-blokada
+
+## Slides
+
+https://github.com/zarazhangrui/beautiful-html-templates
 
 ## My VSCode theme
 
