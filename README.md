@@ -5,21 +5,16 @@
 - Working on: https://learn-less.netlify.app/
 - Portfolio: https://wentallout.io.vn
 
-## My Tech Stack
+## 🛠️ Skills & Technologies
 
-- TypeScript: Main coding language
-- [SvelteKit](https://svelte.dev): Main fullstack web framework
-- [TailwindCSS](https://tailwindcss.com), [shadcn-svelte](https://shadcn-svelte.com): styling your app
+![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded) ![Svelte](https://www.shieldcn.dev/badge/-Svelte-FF3E00.svg?logo=svelte&variant=branded) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded) ![Playwright](https://www.shieldcn.dev/badge/-Playwright-2EAD33.svg?logo=playwright&variant=branded) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded) ![Vitest](https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&variant=branded) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded) ![Cloudflare Workers](https://www.shieldcn.dev/badge/-Cloudflare_Workers-F38020.svg?logo=cloudflare&variant=branded)
+
 - Postgres, [Supabase](https://supabase.com): database
 - [Zod](https://zod.dev): validation
 - [Netlify](https://www.netlify.com): deploy
 - [Playwright](https://playwright.dev/), [sveltest.dev](https://sveltest.dev/): testing
 - [better-captcha](https://www.better-captcha.dev): captcha
 - [Antigravity](https://antigravity.google): AI Assistant
-
-## 🛠️ Skills & Technologies
-
-![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded) ![Svelte](https://www.shieldcn.dev/badge/-Svelte-FF3E00.svg?logo=svelte&variant=branded) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded) ![Playwright](https://www.shieldcn.dev/badge/-Playwright-2EAD33.svg?logo=playwright&variant=branded) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded) ![Vitest](https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&variant=branded) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded) ![Cloudflare Workers](https://www.shieldcn.dev/badge/-Cloudflare_Workers-F38020.svg?logo=cloudflare&variant=branded)
 
 <table>
   <tr>
