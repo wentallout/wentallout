@@ -16,23 +16,6 @@
 - [better-captcha](https://www.better-captcha.dev): captcha
 - [Antigravity](https://antigravity.google): AI Assistant
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="./images/svelte.svg" width="48" height="48" />  
-    </td>
-    <td align="center" width="96">
-        <img src="./images/tailwind.svg" width="48" height="48" />
-    </td>
-     <td align="center" width="96">
-        <img src="./images/vscode.svg" width="48" height="48" />
-    </td>
-    <td align="center" width="96">
-        <img src="./images/figma.svg" width="48" height="48" />
-    </td>
-  </tr>
-</table>
-
 ## AI Global rules
 
 [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills/blob/main/CLAUDE.md)
