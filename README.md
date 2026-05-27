@@ -41,6 +41,7 @@ This is a needle in a haystack proble, there are too many skills out there. Imma
 - [skills.sh](https://skills.sh): find more skills
 - https://github.com/obra/superpowers
 - [marketingskills by Corey](https://github.com/coreyhaines31/marketingskills): marketing
+- [modern-web-guidance](https://developer.chrome.com/docs/modern-web-guidance): essential web skills by google
 
 
 ## Security
@@ -104,9 +105,8 @@ Task Master AI MCP: https://github.com/eyaltoledano/claud...
 [Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
 9. Codebase Memory MCP: https://github.com/DeusData/codebase-...
 - [Doc Co-Authoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)
-- Marketing Skills by Corey Haines: https://github.com/coreyhaines31/mark...
-- Claude SEO: https://github.com/AgriciDaniel/claud...
-- Brand Guidelines: https://github.com/anthropics/skills/...
+- [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills)
+- Claude SEO
 - Deep Research Skill: [https://github.com/199-biotechnologie...](https://github.com/199-biotechnologies/claude-deep-research-skill)
 - GPT Researcher: https://github.com/assafelovic/gpt-re...
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills)
