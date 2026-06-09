@@ -7,8 +7,10 @@
 
 ## My workflow
 
+- Plan first.
 - Try to use `low` effort.
 - Stay in 40-60% of used tokens.
+- Clean your session.
 - You AGENTS.md might be too long, keep it simple.
 - AGENTS.md should have this: 
 
@@ -90,42 +92,17 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 - https://github.com/obra/superpowers
 - [marketingskills by Corey](https://github.com/coreyhaines31/marketingskills): marketing
 - [modern-web-guidance](https://developer.chrome.com/docs/modern-web-guidance): essential web skills by google
-
-### Security
-https://www.promptfoo.dev/
-
-### Design with AI
-
+- [Security with Promptfoo](https://www.promptfoo.dev)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main)
 - [skills/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
 - [anthropics/canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)
-
-## Research
-
 - [GPTR](https://gptr.dev) - AI mate for rapid deep research
 - [autoresearch](https://github.com/karpathy/autoresearch)
-
-## Main strategy to coding with AI
-
-- We have 2 types of projects: well-known requirements (domain experience, well defined user stories, usage requirements, dataset requirements) and uncertain requirements (vibes, experiments, prototypes).
-- For well-known requirements, we always go with PLAN MODE, build as much context into your plan as possible, iterate on the plan multiple time, read the plan, make sure every edge cases are covered. Then from PLAN we go into IMPLEMENT. During IMPLEMENT we're gonna have to deal with missed requirements and bad codes, which leads to us iterating on it for a long time until it's completed and we can play and test it.
-- For Uncertain Requirements: PROMPT -> PROMPT -> PROMPT -> ITERATE
-- Stick to one task/feature in one coding session, clean your session frequently
 - [tldraw](https://www.tldraw.com): Whiteboarding
 - [Fallow](https://docs.fallow.tools): Clean your messy AI generated code:
 - [sci-bot](https://sci-bot.ru),, https://github.com/199-biotechnologies/claude-deep-research-skill: research is important
 - [gitingest](https://gitingest.com): Turn repo into text for LLMs.
 - https://github.com/travisvn/awesome-claude-skills
-
-[Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
-
-## Useful links
-
-- [Signs_of_AI_writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
-- [arena.ai - Coding category](https://arena.ai/leaderboard/text/coding)
-- [SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
-- [Slow down and write better with AI](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down)
-- [Moving from React to Svelte](https://strawberrybrowser.com/blog/react-to-svelte)
 
 ## Other cool stuff I dont use
 
@@ -138,22 +115,11 @@ https://www.promptfoo.dev/
 - [Obsidian Skills](https://github.com/kepano/obsidian-skills)
 - Firecrawl: https://github.com/mendableai/firecrawl
 - Langflow: https://github.com/langflow-ai/langflow
-
-## Making videos 
-
-Remotion: https://github.com/remotion-dev/remotion
-
-## Is my page agent ready?
-
-[Is Your Site Agent-Ready?](https://isitagentready.com)
+- Remotion: https://github.com/remotion-dev/remotion
 
 ## Making custom skills
 
 https://github.com/anthropics/skills/tree/main/skills/skill-creator
-
-## Context 
-
-Context Optimization: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/memory-systems/SKILL.md
 
 ## Security
 
@@ -165,25 +131,21 @@ promptfoo: https://github.com/promptfoo/promptfoo
 - SkillsMP: https://skillsmp.com
 - SkillHub: https://skillhub.club
 
-## Layout without breakpoints
-
-https://frontendmasters.com/blog/building-a-ui-without-breakpoints
-
 ## News
 
-https://tom-doerr.github.io/repo_posts/
+- [Beautiful HTML Slides]https://github.com/zarazhangrui/beautiful-html-templates
 
-## Security and Privacy
+## Useful links
 
-Go to https://www.grc.com/shieldsup and scan
-
-Privacy Badger: https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
-
-https://www.privacyinternational.org/guide-step/4319/como-instalar-un-bloqueador-de-anuncios-en-android-blokada
-
-## Slides
-
-https://github.com/zarazhangrui/beautiful-html-templates
+- [Is Your Site Agent-Ready?](https://isitagentready.com)
+- [Layout without breakpoints](https://frontendmasters.com/blog/building-a-ui-without-breakpoints)
+- [Repo Posts](https://tom-doerr.github.io/repo_posts)
+- [Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
+- [Signs_of_AI_writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
+- [arena.ai - Coding category](https://arena.ai/leaderboard/text/coding)
+- [SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
+- [Slow down and write better with AI](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down)
+- [Moving from React to Svelte](https://strawberrybrowser.com/blog/react-to-svelte)
 
 ## My VSCode theme
 
