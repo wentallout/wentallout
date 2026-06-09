@@ -9,13 +9,13 @@
 
 ```mermaid
 graph TD
-    A[/Research using Google Scholar/]
+    A[/Research using Google Gemini and real research papers/]
     B[/Survey/Interview Customers/]
     
     C["Create a good prompt"]
     C_Note["1/ Target a coding file (type its location)<br>2/ Short<br>3/ Specific"]
     
-    D["Pass prompt to CLI Agent (target a coding file)"]
+    D["Pass prompt to CLI Agent"]
     D_Note["Avoid flooding context of CLI with research data"]
     
     E["Create PRD (make sure to keep all PRDs in one place)"]
