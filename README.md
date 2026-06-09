@@ -5,6 +5,51 @@
 - Working on: https://learn-less.netlify.app/
 - Portfolio: https://wentallout.io.vn
 
+## My workflow
+
+```mermaid
+graph TD
+    A[/Research using Google Scholar/]
+    B[/Survey/Interview Customers/]
+    
+    C["Create a good prompt"]
+    C_Note["1/ Target a coding file (type its location)<br>2/ Short<br>3/ Specific"]
+    
+    D["Pass prompt to CLI Agent (target a coding file)"]
+    D_Note["Avoid flooding context of CLI with research data"]
+    
+    E["Create PRD (make sure to keep all PRDs in one place)"]
+    F["Plan and create TodoList based on PRD"]
+    G["Start coding using that one PRD"]
+    H["Make sure Toollist is completed"]
+    I["Write Unit Tests and E2E Tests"]
+    
+    J{"Verify tests / use the app"}
+    
+    K["Commit code"]
+    L(("Pull request"))
+
+    %% Connections
+    A --> C
+    B --> C
+    C --- C_Note
+    
+    C --> D
+    D --- D_Note
+    
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+    H --> I
+    I --> J
+    
+    J -->|Good| K
+    J -->|Fix needed| I
+    
+    K --> L
+```
+
 ## 🛠️ Skills & Technologies
 
 ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded) ![Svelte](https://www.shieldcn.dev/badge/-Svelte-FF3E00.svg?logo=svelte&variant=branded) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded) ![Playwright](https://www.shieldcn.dev/badge/-Playwright-2EAD33.svg?logo=playwright&variant=branded) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded) ![Prettier](https://www.shieldcn.dev/badge/-Prettier-F7B93E.svg?logo=prettier&variant=branded) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded) ![Vitest](https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&variant=branded) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded) ![Cloudflare Workers](https://www.shieldcn.dev/badge/-Cloudflare_Workers-F38020.svg?logo=cloudflare&variant=branded)
