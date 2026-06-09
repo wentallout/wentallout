@@ -71,7 +71,6 @@ https://www.promptfoo.dev/
 - [gitingest](https://gitingest.com): Turn repo into text for LLMs.
 - https://github.com/travisvn/awesome-claude-skills
 
-
 [Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
 
 ## Context Engineering
@@ -89,8 +88,6 @@ Three phases: Research, Plan, Implement.
 - Plan step: outline the exact implementation steps, include file names, lines and snippets, explicit about testing steps
 - Implement step: Go write the code. "If properly planned, the implementation is easy and expected." Keep context under 40%
 
-This is not magic => You still have to read the PLAN.
-
 ## Useful links
 
 - [Signs_of_AI_writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
@@ -103,7 +100,6 @@ This is not magic => You still have to read the PLAN.
 
 Task Master AI MCP: https://github.com/eyaltoledano/claud...
 [Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
-9. Codebase Memory MCP: https://github.com/DeusData/codebase-...
 - [Doc Co-Authoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)
 - [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills)
 - Claude SEO
@@ -126,9 +122,11 @@ Remotion: https://github.com/remotion-dev/remotion
 https://github.com/anthropics/skills/tree/main/skills/skill-creator
 
 ## Context 
+
 Context Optimization: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/blob/main/skills/memory-systems/SKILL.md
 
 ## Security
+
 promptfoo: https://github.com/promptfoo/promptfoo
 
 ## Find more skills
