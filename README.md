@@ -82,10 +82,7 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp)
 
-## Skills
-
-Skills are basically upgrades for your agent, they help them do a specific task better, faster in a more structured way.
-This is a needle in a haystack proble, there are too many skills out there. Imma try to keep it simple and ignore the noises.
+## Skills/MCPs/Tools
 
 - [write-like-a-human](https://github.com/wentallout/write-like-a-human): a new skill I made that allow you to help your AI writes like humans, no more common AI patterns (not just X, but Y kind of pattern)
 - [midudev/autoskills](https://github.com/midudev/autoskills): Automatically find your agent a bunch of relevant skills by scanning your project
@@ -94,9 +91,7 @@ This is a needle in a haystack proble, there are too many skills out there. Imma
 - [marketingskills by Corey](https://github.com/coreyhaines31/marketingskills): marketing
 - [modern-web-guidance](https://developer.chrome.com/docs/modern-web-guidance): essential web skills by google
 
-
-## Security
-
+### Security
 https://www.promptfoo.dev/
 
 ### Design with AI
@@ -124,21 +119,6 @@ https://www.promptfoo.dev/
 
 [Building Products people want to live in](https://medium.com/design-bootcamp/building-products-people-want-to-live-in-1420fa4decbf)
 
-## Context Engineering
-
-<img width="250" height="156" alt="image" src="https://github.com/user-attachments/assets/11dba020-6c2f-416e-b5d2-3b2bbbc2a7a0" />
-
-The name of the game is that you only have approximately 170k of context window to work with. So it's essential to use as little of it as possible. The more you use the context window, the worse the outcomes you'll get.
-
-Frequent Intentional Compaction: building your entire workflow around context management
-Goal: Keep Context Utilization under 40%
-
-Three phases: Research, Plan, Implement.
-
-- Research step: Understand how the system works, find all relevant files, explore causes of XYZ bug.
-- Plan step: outline the exact implementation steps, include file names, lines and snippets, explicit about testing steps
-- Implement step: Go write the code. "If properly planned, the implementation is easy and expected." Keep context under 40%
-
 ## Useful links
 
 - [Signs_of_AI_writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing)
@@ -149,7 +129,6 @@ Three phases: Research, Plan, Implement.
 
 ## Other cool stuff I dont use
 
-Task Master AI MCP: https://github.com/eyaltoledano/claud...
 [Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
 - [Doc Co-Authoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)
 - [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills)
