@@ -7,6 +7,19 @@
 
 ## My workflow
 
+- Try to use `low` effort.
+- Stay in 40-60% of used tokens.
+- You AGENTS.md might be too long, keep it simple.
+- AGENTS.md should have this: 
+
+```md
+## Workflow
+
+Don't explore the codebase beyond any explicitly mentioned files and folders.
+
+If unsure about an API, write small scripts, print out information, to make an informed decision about next steps.
+```
+
 ```mermaid
 graph TD
     A[/Research using Google Gemini and real research papers/]
