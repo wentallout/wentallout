@@ -19,9 +19,9 @@ graph TD
     D_Note["Avoid flooding context of CLI with research data"]
     
     E["Create PRD (make sure to keep all PRDs in one place)"]
-    F["Plan and create TodoList based on PRD"]
+    F["Plan and create Todo-List based on PRD"]
     G["Start coding using that one PRD"]
-    H["Make sure Toollist is completed"]
+    H["Make sure Todo-List is completed"]
     I["Write Unit Tests and E2E Tests"]
     
     J{"Verify tests / use the app"}
