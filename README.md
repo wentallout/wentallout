@@ -4,6 +4,8 @@
 - Contact me at: wentallout@gmail.com
 - Working on: https://learn-less.netlify.app/
 - Portfolio: https://wentallout.io.vn
+- Keyboard: https://www.youtube.com/shorts/vtMTHZl_FTY
+- 😎 [khoaneostyle](https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle)
 
 ## My workflow
 
@@ -146,7 +148,3 @@ promptfoo: https://github.com/promptfoo/promptfoo
 - [SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
 - [Slow down and write better with AI](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down)
 - [Moving from React to Svelte](https://strawberrybrowser.com/blog/react-to-svelte)
-
-## My VSCode theme
-
-😎 [khoaneostyle](https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle)
