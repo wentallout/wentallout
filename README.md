@@ -88,33 +88,50 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 
 ## Skills/MCPs/Tools
 
-- [write-like-a-human](https://github.com/wentallout/write-like-a-human): a new skill I made that allow you to help your AI writes like humans, no more common AI patterns (not just X, but Y kind of pattern)
-- [midudev/autoskills](https://github.com/midudev/autoskills): Automatically find your agent a bunch of relevant skills by scanning your project
-- [skills.sh](https://skills.sh): find more skills
+## General
+
 - https://github.com/obra/superpowers
-- [marketingskills by Corey](https://github.com/coreyhaines31/marketingskills): marketing
-- [modern-web-guidance](https://developer.chrome.com/docs/modern-web-guidance): essential web skills by google
-- [Security with Promptfoo](https://www.promptfoo.dev)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main)
+
+## UI/UX/Design
+
+- [ui-skills](https://www.ui-skills.com)
 - [skills/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main)
+- [modern-web-guidance](https://developer.chrome.com/docs/modern-web-guidance)
+
+## Animation
+- [find-animation-opportunities](https://github.com/emilkowalski/skills/blob/main/skills/find-animation-opportunities/SKILL.md)
+
+## Writing
+- [write-like-a-human](https://github.com/wentallout/write-like-a-human): a new skill I made that allow you to help your AI writes like humans, no more common AI patterns (not just X, but Y kind of pattern)
+
+## Security
+- [Security with Promptfoo](https://www.promptfoo.dev)
 - [anthropics/canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)
-- [GPTR](https://gptr.dev) - AI mate for rapid deep research
-- [autoresearch](https://github.com/karpathy/autoresearch)
+
 - [tldraw](https://www.tldraw.com): Whiteboarding
-- [Fallow](https://docs.fallow.tools): Clean your messy AI generated code:
-- [sci-bot](https://sci-bot.ru),, https://github.com/199-biotechnologies/claude-deep-research-skill: research is important
+
+## Marketing
+- [marketingskills by Corey](https://github.com/coreyhaines31/marketingskills)
+
+## Cleaning code
+- [Fallow](https://docs.fallow.tools): Clean your messy AI generated code
+
+## Research
+- [sci-bot](https://sci-bot.ru) , https://github.com/199-biotechnologies/claude-deep-research-skill: research is important
+- [autoresearch](https://github.com/karpathy/autoresearch)
+- [GPTR](https://gptr.dev)
+
+## LLM-friendly tools
 - [gitingest](https://gitingest.com): Turn repo into text for LLMs.
-- https://github.com/travisvn/awesome-claude-skills
 
 ## Other cool stuff I dont use
 
 [Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
 - [Doc Co-Authoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)
 - [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills)
-- Claude SEO
 - Deep Research Skill: [https://github.com/199-biotechnologie...](https://github.com/199-biotechnologies/claude-deep-research-skill)
 - GPT Researcher: https://github.com/assafelovic/gpt-re...
-- [Obsidian Skills](https://github.com/kepano/obsidian-skills)
 - Firecrawl: https://github.com/mendableai/firecrawl
 - Langflow: https://github.com/langflow-ai/langflow
 - Remotion: https://github.com/remotion-dev/remotion
@@ -123,19 +140,17 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 
 https://github.com/anthropics/skills/tree/main/skills/skill-creator
 
-## Security
-
-promptfoo: https://github.com/promptfoo/promptfoo
-
 ## Find more skills
 
 - Official Anthropic Skills Repo: https://github.com/anthropics/skills
+- [skills.sh](https://skills.sh)
 - SkillsMP: https://skillsmp.com
 - SkillHub: https://skillhub.club
+- [midudev/autoskills](https://github.com/midudev/autoskills): Automatically find your agent a bunch of relevant skills by scanning your project
 
-## News
+## Presentation
 
-- [Beautiful HTML Slides]https://github.com/zarazhangrui/beautiful-html-templates
+- [Beautiful HTML Slides](https://github.com/zarazhangrui/beautiful-html-templates)
 
 ## Useful links
 
