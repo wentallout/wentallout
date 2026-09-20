@@ -80,8 +80,8 @@ graph TD
 MCPs let your agent connect to outside tools (browser, internet, api)
 
 - [Serena](https://github.com/oraios/serena): coding agent toolkit
-- [Supabase MCP](https://supabase.com/docs/guides/getting-started/mcp): MCP to interact with supabase database
-- [Svelte MCP](https://svelte.dev/docs/ai/remote-setup): very important because I mainly use Svelte
+- [Supabase MCP](https://supabase.com/docs/guides/getting-started/mcp): Official Supabase MCP
+- [Svelte MCP](https://svelte.dev/docs/ai/remote-setup): Official Svelte MCP
 - [Context7](https://context7.com)
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp)
