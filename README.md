@@ -72,16 +72,18 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 - [modern-web-guidance](https://developer.chrome.com/docs/modern-web-guidance)
 
 ## Animation Skills
+
 - [Hyperframes](https://github.com/heygen-com/hyperframes)
+- Remotion: https://github.com/remotion-dev/remotion
 - [find-animation-opportunities](https://github.com/emilkowalski/skills/blob/main/skills/find-animation-opportunities/SKILL.md)
 
 ## Writing Skills
+
 - [write-like-a-human](https://github.com/wentallout/write-like-a-human): a new skill I made that allow you to help your AI writes like humans, no more common AI patterns (not just X, but Y kind of pattern)
 
 ## Security Skills
 - [Security with Promptfoo](https://www.promptfoo.dev)
 - [anthropics/canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)
-
 - [tldraw](https://www.tldraw.com): Whiteboarding
 
 ## Marketing Skills
@@ -102,12 +104,10 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 
 - [Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
 - [Doc Co-Authoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)
-- [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills)
 - Deep Research Skill: [https://github.com/199-biotechnologie...](https://github.com/199-biotechnologies/claude-deep-research-skill)
 - GPT Researcher: https://github.com/assafelovic/gpt-re...
 - Firecrawl: https://github.com/mendableai/firecrawl
 - Langflow: https://github.com/langflow-ai/langflow
-- Remotion: https://github.com/remotion-dev/remotion
 
 ## Making custom skills
 
@@ -115,7 +115,7 @@ https://github.com/anthropics/skills/tree/main/skills/skill-creator
 
 ## Find more skills
 
-- Official Anthropic Skills Repo: https://github.com/anthropics/skills
+- [Official Anthropic Skills](https://github.com/anthropics/skills)
 - [skills.sh](https://skills.sh)
 - SkillsMP: https://skillsmp.com
 - SkillHub: https://skillhub.club
