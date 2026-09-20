@@ -86,38 +86,36 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 - [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp)
 
-## Skills/MCPs/Tools
-
 ## General
 
 - https://github.com/obra/superpowers
 
-## UI/UX/Design
+## UI/UX/Design Skills
 
 - [ui-skills](https://www.ui-skills.com)
 - [skills/frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design)
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md/tree/main)
 - [modern-web-guidance](https://developer.chrome.com/docs/modern-web-guidance)
 
-## Animation
+## Animation Skills
 - [find-animation-opportunities](https://github.com/emilkowalski/skills/blob/main/skills/find-animation-opportunities/SKILL.md)
 
-## Writing
+## Writing Skills
 - [write-like-a-human](https://github.com/wentallout/write-like-a-human): a new skill I made that allow you to help your AI writes like humans, no more common AI patterns (not just X, but Y kind of pattern)
 
-## Security
+## Security Skills
 - [Security with Promptfoo](https://www.promptfoo.dev)
 - [anthropics/canvas-design](https://github.com/anthropics/skills/blob/main/skills/canvas-design/SKILL.md)
 
 - [tldraw](https://www.tldraw.com): Whiteboarding
 
-## Marketing
+## Marketing Skills
 - [marketingskills by Corey](https://github.com/coreyhaines31/marketingskills)
 
-## Cleaning code
+## Cleaning Skills
 - [Fallow](https://docs.fallow.tools): Clean your messy AI generated code
 
-## Research
+## Research Skills
 - [sci-bot](https://sci-bot.ru) , https://github.com/199-biotechnologies/claude-deep-research-skill: research is important
 - [autoresearch](https://github.com/karpathy/autoresearch)
 - [GPTR](https://gptr.dev)
@@ -127,7 +125,7 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 
 ## Other cool stuff I dont use
 
-[Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
+- [Tavily](https://github.com/tavily-ai/tavily-mcp): Search stuff
 - [Doc Co-Authoring](https://github.com/anthropics/skills/blob/main/skills/doc-coauthoring/SKILL.md)
 - [Marketing Skills by Corey Haines](https://github.com/coreyhaines31/marketingskills)
 - Deep Research Skill: [https://github.com/199-biotechnologie...](https://github.com/199-biotechnologies/claude-deep-research-skill)
