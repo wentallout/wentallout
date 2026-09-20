@@ -57,7 +57,7 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 - [Supabase MCP](https://supabase.com/docs/guides/getting-started/mcp): Official Supabase MCP
 - [Svelte MCP](https://svelte.dev/docs/ai/remote-setup): Official Svelte MCP
 - [Context7](https://context7.com)
-- [mcp-playwright](https://github.com/executeautomation/mcp-playwright)
+- [mcp-playwright](https://github.com/executeautomation/mcp-playwright)](https://playwright.dev/docs/getting-started-mcp)
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp)
 
 ## General
