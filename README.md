@@ -25,46 +25,20 @@ If unsure about an API, write small scripts, print out information, to make an i
 ```
 
 ```mermaid
-graph TD
-    A[/Research using Google Gemini and real research papers/]
-    B[/Survey/Interview Customers/]
-    
-    C["Create a good prompt"]
-    C_Note["1/ Target a coding file (type its location)<br>2/ Short<br>3/ Specific"]
-    
-    D["Pass prompt to CLI Agent"]
-    D_Note["Avoid flooding context of CLI with research data"]
-    
-    E["Create PRD (make sure to keep all PRDs in one place)"]
-    F["Plan and create Todo-List based on PRD"]
-    G["Start coding using that one PRD"]
-    H["Make sure Todo-List is completed"]
-    I["Write Unit Tests and E2E Tests"]
-    
-    J{"Verify tests / use the app"}
-    
-    K["Commit code"]
-    L(("Pull request"))
+graph LR
+    A[/Research/] --> C["Create prompt<br><small>Short · Specific · Targeted</small>"]
+    B[/Customer research/] --> C
 
-    %% Connections
-    A --> C
-    B --> C
-    C --- C_Note
-    
-    C --> D
-    D --- D_Note
-    
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-    H --> I
-    I --> J
-    
-    J -->|Good| K
+    C --> D["CLI Agent<br><small>Don't flood context</small>"]
+    D --> E["Create PRD<br><small>Keep PRDs together</small>"]
+    E --> F["Create Todo-List"]
+    F --> G["Code"]
+    G --> H["Complete Todo-List"]
+    H --> I["Unit + E2E Tests"]
+    I --> J{"Verify"}
+    J -->|Good| K["Commit"]
+    K --> L(("Pull request"))
     J -->|Fix needed| I
-    
-    K --> L
 ```
 
 ## 🛠️ Techstack
@@ -88,7 +62,7 @@ MCPs let your agent connect to outside tools (browser, internet, api)
 
 ## General
 
-- https://github.com/obra/superpowers
+- [superpowers](https://github.com/obra/superpowers)
 
 ## UI/UX/Design Skills
 
