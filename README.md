@@ -2,8 +2,8 @@
 <img src="./images/github-banner.svg" />
 
 - Contact me at: wentallout@gmail.com
-- Working on: https://learn-less.netlify.app/
-- Portfolio: https://wentallout.io.vn
+- Working on: https://learn-less.netlify.app
+- Portfolio: https://0.mk/khoa
 - Keyboard: https://www.youtube.com/shorts/vtMTHZl_FTY
 - 😎 [khoaneostyle](https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle)
 
