@@ -4,7 +4,6 @@
 - Contact me at: wentallout@gmail.com
 - Working on: https://learn-less.netlify.app
 - Portfolio: https://0.mk/khoa
-- Keyboard: https://www.youtube.com/shorts/vtMTHZl_FTY
 - 😎 [khoaneostyle](https://marketplace.visualstudio.com/items?itemName=wentallout.khoaneostyle)
 
 ## My workflow
