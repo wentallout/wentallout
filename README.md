@@ -134,3 +134,8 @@ https://github.com/anthropics/skills/tree/main/skills/skill-creator
 - [SvelteBench - LLM benchmark for Svelte 5](https://github.com/khromov/svelte-bench)
 - [Slow down and write better with AI](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down)
 - [Moving from React to Svelte](https://strawberrybrowser.com/blog/react-to-svelte)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/svelte.dark.svg">
+  <img alt="svelte" src="https://ascii.rest/svg/svelte.svg" width="235">
+</picture>
